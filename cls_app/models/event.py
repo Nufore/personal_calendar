@@ -11,4 +11,12 @@ class Event:
 
 
     def __repr__(self) -> str:
+        return (f"{self.date} "
+                f"{self.time} | "
+                f"{self.category} | "
+                f"{self.title.replace("_", " ")} | "
+                f"{self.description.replace("_", " ")}")
+
+
+    def data_to_file(self):
         return f"{self.date} {self.time} {self.category} {self.title} {self.description}"

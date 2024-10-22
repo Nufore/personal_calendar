@@ -1,1 +1,4 @@
-2024-10-11 15:35:00 личное My_personal_event Description_to_my_personal_event
+2024-10-22 15:35:00 отдых Rest Description_to_rest_event
+2024-12-22 14:30:00 личное Personal Description_to_personal_event
+2024-10-22 15:35:00 работа work work_work_work
+2024-11-24 10:00:00 работа Work Work_work_work_work_work
